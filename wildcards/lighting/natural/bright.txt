@@ -1,0 +1,3 @@
+midday
+harsh overhead sunlight
+directional sunlight

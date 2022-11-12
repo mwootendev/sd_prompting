@@ -1,0 +1,4 @@
+bokeh
+shallow depth of field
+blur
+out-of-focus background
