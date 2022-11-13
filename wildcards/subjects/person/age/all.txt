@@ -1,0 +1,12 @@
+adolescent
+aging
+baby
+elderly
+mature
+middle-aged
+old
+older
+preteen
+retired
+teenage
+young

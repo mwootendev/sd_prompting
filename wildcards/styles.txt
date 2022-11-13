@@ -1,43 +1,82 @@
+1950s pulp sci-fi cover
+2D Animation
+2D Digital Paintings
 2d game art
+3D Digital Paintings
+3D Path Tracing
+3D Ray Tracing
+3D Renderings
+3D Sculpting
 3D VR painting
 8k resolution
-1950s pulp sci-fi cover
+Acrylic Paints
+Algorithmic Art
 anime
 artistic photograph
 Baroque painting
+Botanical Drawing
 Byzantine mosaic
+Chalks
+Charcoals
 Chiaroscuro painting
+Color Pencils
+Concept Artist
+Data-Moshing
 depth of field
+Digital Collage
+Digital Matte Paintings
 digital painting
+Digital Paintings
+Diorama
+Done in LEGO
 dutch golden age
+Dynamic Paintings
 filmed in IMAX
 fine art
 flat shading
 Flemish Baroque
+Fractal Art
 Fresco painting
+Generative Art
 Gouache Painting
 graffiti
+Graphite Pencils
 Grisaille painting
 highly detailed
 hyperrealism
 Impasto painting
+Ink and Pen
+Integrated Arts
+Low Poly
 low-poly
 Luminism painting
 Marvel Comics
 matte painting
+Matte Paintings
+Miniature
 mixed media
+Mixed-Medium Arts
 oil painting
+Oil Paints
+Optical Illusion
 Panorama
+Paper Cut Out
 parallax
 pastel painting
+Pastels
 pencil sketch
 Perspective painting
+Pixel Art
+Play-Doh
 Playstation 5 screenshot
 pop art
+PSX GRAPHICS
+Raster Paintings
 raytracing
 rendered in cinema4d
 rendered in maya
 rendered in zbrush
+Retro Graphics
 schematic
 sculpture
 Sfumato painting
@@ -46,14 +85,20 @@ Sotto In Su
 storybook illustration
 surrealist art
 surveillance footage
+Technical drawing
+Tempera
 Tempera Painting
+Terrarium
 tilt shift
 Trompe L’oeil
 Ukiyo-e
 unreal engine render
+Vector Art
 vector image
 Veduta painting
 visionary hypermaximalism
 volumetric lighting
+Voxel
 vray tracing
 watercolor painting
+Watercolors

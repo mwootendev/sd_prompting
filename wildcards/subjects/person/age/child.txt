@@ -1,0 +1,10 @@
+adolescent
+baby
+child
+infant
+junior
+juvenile
+preteen
+teenage
+teenybopper
+young

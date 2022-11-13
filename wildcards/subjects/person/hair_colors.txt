@@ -1,0 +1,9 @@
+black
+blonde
+auburn
+brown
+gray
+white
+red
+strawberry blonde
+light brown
