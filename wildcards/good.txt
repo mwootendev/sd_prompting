@@ -1,15 +1,11 @@
-4k
-8k
-HD
-UHD
-high definition
 high quality
-trending
+trending on {__artists/sites_art__}
 award-winning
+award winning
 acclaimed
-on artstation
 masterpiece
-featured on
+featured on {__artists/sites_art__}
+showcased on {__artists/sites_art__}
 great composition
 dynamic composition
 studio quality

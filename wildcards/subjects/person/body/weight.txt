@@ -1,0 +1,2 @@
+{__subjects/person/body/light__}
+{__subjects/person/body/heavy__}

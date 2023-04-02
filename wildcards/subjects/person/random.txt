@@ -1,0 +1,1 @@
+a {__subjects/person/body/height__} {__subjects/person/body/weight__} {__subjects/person/body/bodyshape__} {__subjects/person/age/all__} {__subjects/person/genders__} with {__subjects/person/skin_tones__} skin, {__subjects/person/hair_colors__} {__subjects/person/hair_styles__} hair, and {__subjects/person/eye_colors__} eyes feeling {__subjects/person/feelings__}

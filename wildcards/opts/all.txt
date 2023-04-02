@@ -1,0 +1,1 @@
+-s {__opts/steps__} -A {__opts/samplers__} -W {__opts/widths__} -H {__opts/heights__} -C {__opts/scales__} -G1 --hires
